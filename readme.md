@@ -2,8 +2,8 @@
 
 User login :
 1. admin
-    username :admin
-    password :admin
+    username : admin
+    password : admin
 2. peminjam
-    username :
-    password :
+    username : user
+    password : user
